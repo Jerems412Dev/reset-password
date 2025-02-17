@@ -38,7 +38,7 @@ function App() {
     } else if (currentInput.current && event.key === "Backspace") {
       prevInput.current?.focus();
     }
-    setCode(`${inputOne.current?.value}${inputTwo.current?.value}${inputThree.current?.value}${inputFour.current?.value}${inputFive.current?.value}${inputSix.current?.value}`);
+    console.log(code);
     setCodeVerified(isCodeVerified(`${inputOne.current?.value}${inputTwo.current?.value}${inputThree.current?.value}${inputFour.current?.value}${inputFive.current?.value}${inputSix.current?.value}`));
   };
 
