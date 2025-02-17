@@ -8,4 +8,4 @@ It's a simple reset password page
 
 ## Link
 
-Here's a [link](https://reset-password.vercel.app/) for Demo website
+Here's a [link](https://reset-password-rose.vercel.app/) for Demo website
