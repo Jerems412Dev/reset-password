@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "Geist";
+    src: local("Geist-VariableFont_wght"),
+      url("./assets/Geist-VariableFont_wght.ttf") format("truetype");
+  }
+
+body {
+  font-family: "Geist";
+  margin: 0;
+  padding: 0;
+}
